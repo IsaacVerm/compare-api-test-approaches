@@ -1,4 +1,4 @@
-# Compari API test approaches
+# Compare API test approaches
 
 ## Setup
 
