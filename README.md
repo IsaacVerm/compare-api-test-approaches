@@ -2,7 +2,7 @@
 
 ## Setup
 
-I use the `db.json` file as defined in the [json-server](https://github.com/typicode/json-server#getting-started) repository using the 
+I use the `db.json` file as defined in the [json-server](https://github.com/typicode/json-server#getting-started) repository based on a [Docker container](https://github.com/clue/docker-json-server).
 
 ## Commands
 
